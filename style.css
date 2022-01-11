@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+}
+
+.recipe_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
